@@ -4,7 +4,7 @@ This task was given for the practical application of knowledge on REST API with 
 ## Installation
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-####Requirments
+##Requirments
 After uploading files, it's necessary to create a new virtual environment.
 To do this use these commands(for Windows):
 
@@ -41,7 +41,7 @@ Then you can go through the sections:
 *Stackoverflow - answers to solve some problems
 
 ##Authors
-* **Nurai Omurbek** - *Initial work* - [Naurabay](https://github.com/Naurabay/)
+ **Nurai Omurbek** - *Initial work* - [Naurabay](https://github.com/Naurabay/)
 
 ## Acknowledgments
 
