@@ -32,7 +32,7 @@ pyhton manage.py runserver
 In the terminal you will see a link to the local host. Like this one:
 http://127.0.0.1:8000
 
-_Then you can go through the sections:
+_Then you can go through the sections:_
 * http://127.0.0.1:8000/  - Сourses list
 * http://127.0.0.1:8000/course/ {course id}  - Course detail
 
