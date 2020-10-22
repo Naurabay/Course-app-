@@ -37,6 +37,11 @@ _Then you can go through the sections:_
 * http://127.0.0.1:8000/course/ {course id}  - Course detail
 
 
+## Documentation
+
+[Course app API](https://nurai.docs.apiary.io/#reference/0/one-course-info/delete-a-question)
+
+
 ## Built With
 
 
